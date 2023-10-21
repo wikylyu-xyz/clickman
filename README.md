@@ -1,1 +1,1 @@
-# YClick
+# ClickMan
